@@ -30,7 +30,7 @@
   <img align="center" alt="Alex-AfterEffects" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-plain.svg">
   <img align="center" alt="Alex-Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Alex-Illustrator" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">
-  <img align="right" alt="alexMenezes-pic" height="150" style="border-radius:50px;" src="<img align="right" alt="alexMenezes-pic" height="150" style="border-radius:50px;" src="https://s8.gifyu.com/images/alexMenezes.gif">
+  <!--img align="right" alt="alexMenezes-pic" height="150" style="border-radius:50px;" src="<img align="right" alt="alexMenezes-pic" height="150" style="border-radius:50px;" src="https://s8.gifyu.com/images/alexMenezes.gif"-->
 </div>
   
   ##
