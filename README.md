@@ -30,8 +30,8 @@
   <div align="center">
     <a href="https://www.youtube.com/channel/UCC8il0Tln1C9p5Xp_ZcMLWA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/alexmenezes.br/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/alexmenezes.com.br/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
-  <a href = "mailto:alex.menezes.one@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/alexmenezes.br" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
+  <a href = "mailto:alexmenezes.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexssmenezes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/alexssmenezes/alexssmenezes/blob/output/github-contribution-grid-snake.svg)
