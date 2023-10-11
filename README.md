@@ -3,7 +3,7 @@
 
 - 🙌 Sou evangélico, e idealizador da Rede Louvores 🙏
 - 👪 Sou Casado e papai da princesinha Helena 😍
-- 🚊 Trabalho com tecnologia de transporte público 
+- 🚊 Trabalho com desenvolvimento de sistemas 
 - 📚 Estou sempre aprendendo novas tecnologias
 
 
