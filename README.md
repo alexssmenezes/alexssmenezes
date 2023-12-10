@@ -1,10 +1,10 @@
 😁 Olá, seja bem-vindo(a)!
-✔️ Eu sou o Alex Menezes 👨👍
+✔️ Sou o Alex Menezes 👨👍
 
-- 🙌 Sou evangélico, e idealizador da Rede Louvores 🙏
-- 👪 Sou Casado e papai da princesinha Helena 😍
-- 🚊 Trabalho com desenvolvimento de sistemas 
-- 📚 Estou sempre aprendendo novas tecnologias
+- 🙌 Sou Cristão, idealizador da Rede Louvores 🙏
+- 👪 Pai de família, companheiro fiel 😍
+- 👨‍💻 Trabalho com análise de sistemas 💻
+- 📚 Gosto de estudar novas tecnologias
 
 
 <div align="center">
