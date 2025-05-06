@@ -1,10 +1,10 @@
 😁 Olá, seja bem-vindo(a)!
 ✔️ Sou o Alex Menezes 👨👍
 
-- 🙌 Sou Cristão, idealizador da Rede Louvores 🙏
+- 🙌 Sou Cristão, idealizador do Canal Palavra Ungida 🙏
 - 👪 Pai de família, companheiro fiel 😍
 - 👨‍💻 Trabalho com análise de sistemas 💻
-- 📚 Gosto de estudar novas tecnologias
+- 📚 Gosto de estudar inovações tecnológicas
 
 
 <div align="center">
