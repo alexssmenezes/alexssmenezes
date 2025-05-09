@@ -1,10 +1,10 @@
-😁 Olá, seja bem-vindo(a)!
+😁 Olá, seja bem-vindo(a)!<br>
 ✔️ Sou o Alex Menezes 👨👍
 
-- 🙌 Sou Cristão, idealizador do Canal Palavra Ungida 🙏
 - 👪 Pai de família, companheiro fiel 😍
-- 👨‍💻 Trabalho com análise de sistemas 💻
-- 📚 Gosto de estudar inovações tecnológicas
+- 👨‍💻 Sou Analista de Sistemas, Aplicações e Suporte 💻
+- 📚 Autodidata, gosto de estudar inovações tecnológicas
+- 🙌 Evangélico, idealizador do Canal Palavra Ungida 🙏
 
 
 <div align="center">
