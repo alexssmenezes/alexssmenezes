@@ -52,29 +52,161 @@
 	<tbody>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
-			<a href=""><!-- link do projeto 1 -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" /> <!--Logo Azure-->
+			<a href="https://github.com/alexssmenezes/assmenezes"><!-- link do projeto 1 -->
+      <img src="https://github.com/alexssmenezes/devicon-assm/blob/main/icons/santander/santander.svg" /> <!--Logo Santander-->
       </a>
       </td>
 			<td valign="top">
-			<h3>Projeto 1</h3>
-			<p>Descrição do projeto 1</p>
-			<a href=""> <!-- link do projeto 1 -->
- 			 	<img src="https://img.shields.io/badge/View%20project-4169E1?style=for-the-badge" alt="Projeto github">
+			<h3>Bootcamp Santander 2025 Back-End Python</h3>
+			<p>Bootcamp Santander 2025 Back-End Python (Em breve arquivos do projeto).</p>
+			<a href="https://github.com/alexssmenezes/assmenezes"> <!-- link do projeto 1 -->
+ 			 	<img src="https://img.shields.io/badge/Ver%20Projeto-4169E1?style=for-the-badge" alt="Bootcamp Santander 2025 Back-End Python">
 			</a>
 			</td>
 		</tr>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
-			<a href=""><!-- link do projeto 2 -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <!-- Logo Python-->
+			<a href="https://github.com/alexssmenezes/assmenezes"><!-- link do projeto 1 -->
+      <img src="https://github.com/alexssmenezes/devicon-assm/blob/main/icons/suzano/suzano.png" /> <!--Logo Suzano-->
       </a>
       </td>
 			<td valign="top">
-			<h3>Projeto 2</h3>
-			<p>Descrição do projeto 2</p>
-			<a href=""> <!-- link do projeto 2 -->
- 			 	<img src="https://img.shields.io/badge/View%20Project-FFC222?style=for-the-badge" alt="Projeto github">
+			<h3>Bootcamp Suzano Python Developer</h3>
+			<p>Bootcamp Suzano Python Developer (Em breve arquivos do projeto).</p>
+			<a href="https://github.com/alexssmenezes/assmenezes"> <!-- link do projeto 1 -->
+ 			 	<img src="https://img.shields.io/badge/Ver%20Projeto-4169E1?style=for-the-badge" alt="Bootcamp Suzano Python Developer">
+			</a>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="80"><br />
+			<a href="https://github.com/alexssmenezes/assmenezes"><!-- link do projeto 1 -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> <!--Logo GitHub-->
+      </a>
+      </td>
+			<td valign="top">
+			<h3>Projeto 1 - Personalização do Perfil GitHub</h3>
+			<p>Perfil Alex Menezes GitHub personalizado.</p>
+			<a href="https://github.com/alexssmenezes/assmenezes"> <!-- link do projeto 1 -->
+ 			 	<img src="https://img.shields.io/badge/Ver%20Projeto-4169E1?style=for-the-badge" alt="Projeto GitHub">
+			</a>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="80"><br />
+			<a href="https://github.com/alexssmenezes/MusicPlayer"><!-- link do projeto 2 -->
+      <img src="https://github.com/alexssmenezes/devicon-assm/blob/main/icons/javascript/javascript-original.svg" /> <!-- Logo Javascript-->
+      </a>
+      </td>
+			<td valign="top">
+			<h3>Projeto 2 - Player de Músicas</h3>
+			<p>Projeto simples de Player de Músicas desenvolvido com Javascript, HTML e CSS</p>
+			<a href="https://github.com/alexssmenezes/MusicPlayer"> <!-- link do projeto 2 -->
+ 			 	<img src="https://img.shields.io/badge/Ver%20Projeto-FFC222?style=for-the-badge" alt="Projeto MusicPlayer">
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="80"><br />
+			<a href="https://github.com/alexssmenezes/Formulario"><!-- link do projeto 3 -->
+      <img src="https://github.com/alexssmenezes/devicon-assm/blob/main/icons/html5/html5-original.svg" /> <!-- Logo HTML5-->
+      </a>
+      </td>
+			<td valign="top">
+			<h3>Projeto 3 - Formulário simples HTML e CSS</h3>
+			<p>Projeto simples de formulário web em HTML e CSS.</p>
+			<a href="https://github.com/alexssmenezes/Formulario"> <!-- link do projeto 3 -->
+ 			 	<img src="https://img.shields.io/badge/Ver%20Projeto-FFC222?style=for-the-badge" alt="Projeto Formulário">
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="80"><br />
+			<a href="https://github.com/alexssmenezes/devicon-assm"><!-- link do projeto 4 -->
+      <img src="https://github.com/alexssmenezes/devicon-assm/blob/main/icons/illustrator/illustrator-plain.svg" /> <!-- Logo Icones-->
+      </a>
+      </td>
+			<td valign="top">
+			<h3>Projeto 4 - Devicon ASSM</h3>
+			<p>Projeto readaptado com emojis diversos.</p>
+			<a href="https://github.com/alexssmenezes/devicon-assm"> <!-- link do projeto 4 -->
+ 			 	<img src="https://img.shields.io/badge/Ver%20Projeto-FFC222?style=for-the-badge" alt="Projeto Devicon">
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="80"><br />
+			<a href="https://github.com/alexssmenezes/store_api"><!-- link do projeto 5 -->
+      <img src="https://github.com/alexssmenezes/devicon-assm/blob/main/icons/python/python-original.svg" /> <!-- Logo Python-->
+      </a>
+      </td>
+			<td valign="top">
+			<h3>Projeto 5 - Store API em Python</h3>
+			<p>Projeto Store API desenvolvido em Python (Bootcamp Santander 2025 Python).</p>
+			<a href="https://github.com/alexssmenezes/store_api"> <!-- link do projeto 5 -->
+ 			 	<img src="https://img.shields.io/badge/Ver%20Projeto-FFC222?style=for-the-badge" alt="Projeto Store API">
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="80"><br />
+			<a href="https://github.com/alexssmenezes/workout_api"><!-- link do projeto 6 -->
+      <img src="https://github.com/alexssmenezes/devicon-assm/blob/main/icons/python/python-original.svg" /> <!-- Logo Python-->
+      </a>
+      </td>
+			<td valign="top">
+			<h3>Projeto 6 - Workout API</h3>
+			<p>Projeto Workout API para crossfit desenvolvido em Python (Bootcamp Santander 2025 Python).</p>
+			<a href="https://github.com/alexssmenezes/workout_api"> <!-- link do projeto 6 -->
+ 			 	<img src="https://img.shields.io/badge/Ver%20Projeto-FFC222?style=for-the-badge" alt="Projeto Workout API">
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="80"><br />
+			<a href="https://github.com/alexssmenezes/CursoPythonSantander"><!-- link do projeto 7 -->
+      <img src="https://github.com/alexssmenezes/devicon-assm/blob/main/icons/python/python-original.svg" /> <!-- Logo Python-->
+      </a>
+      </td>
+			<td valign="top">
+			<h3>Projeto 7 - Curso Python Básico Santander Academy</h3>
+			<p>Projeto de curso realizado pela plataforma Santander Academy de Python básico.</p>
+			<a href="https://github.com/alexssmenezes/CursoPythonSantander"> <!-- link do projeto 7 -->
+ 			 	<img src="https://img.shields.io/badge/Ver%20Projeto-FFC222?style=for-the-badge" alt="Projeto Curso Python Santander Academy">
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="80"><br />
+			<a href="https://github.com/alexssmenezes/Fluxo-de-Conversa-Personalizado"><!-- link do projeto 8 -->
+      <img src="https://github.com/alexssmenezes/devicon-assm/blob/main/icons/powershell/powershell-original.svg" /> <!-- Logo PowerShell-->
+      </a>
+      </td>
+			<td valign="top">
+			<h3>Projeto 8 - Fluxo de Conversa Personalizada</h3>
+			<p>Fluxo de conversa personalizada desenvolvida em Powershell</p>
+			<a href="https://github.com/alexssmenezes/Fluxo-de-Conversa-Personalizado"> <!-- link do projeto 8 -->
+ 			 	<img src="https://img.shields.io/badge/Ver%20Projeto-FFC222?style=for-the-badge" alt="Projeto Chatboot Personalizado">
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="80"><br />
+			<a href="https://github.com/alexssmenezes/Projeto_Analise_de_Sentimento_Language_Studio_Azure-AI"><!-- link do projeto 9 -->
+      <img src="https://github.com/alexssmenezes/devicon-assm/blob/main/icons/azure/azure-original.svg" /> <!-- Logo Azure-->
+      </a>
+      </td>
+			<td valign="top">
+			<h3>Projeto 9 - Projeto Análise Sentimento Azure IA</h3>
+			<p>Projeto Análise Sentimento Azure IA</p>
+			<a href="https://github.com/alexssmenezes/Projeto_Analise_de_Sentimento_Language_Studio_Azure-AI"> <!-- link do projeto 9 -->
+ 			 	<img src="https://img.shields.io/badge/Ver%20Projeto-FFC222?style=for-the-badge" alt="Projeto Análise Sentimento">
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="80"><br />
+			<a href="https://github.com/alexssmenezes/final-challenge-ms-copilot"><!-- link do projeto 10 -->
+      <img src="https://github.com/alexssmenezes/devicon-assm/blob/main/icons/copilot/Copilot.svg" /> <!-- Logo Copilot-->
+      </a>
+      </td>
+			<td valign="top">
+			<h3>Projeto 10 - Reconhecimento por Imagem Copilot</h3>
+			<p>Projeto realizado no Challenge DIO com Copilot.</p>
+			<a href="https://github.com/alexssmenezes/final-challenge-ms-copilot"> <!-- link do projeto 10 -->
+ 			 	<img src="https://img.shields.io/badge/Ver%20Projeto-FFC222?style=for-the-badge" alt="Projeto Reconhecimento por imagem">
 			</td>
 		</tr>
 	</tbody>
@@ -109,3 +241,7 @@
 </details>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=214cce&height=120&section=footer"/>
+
+<h3 align="center">
+  Alex Menezes © Todos os direitos reservados 2025
+</h3>
