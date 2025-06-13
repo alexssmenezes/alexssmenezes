@@ -56,7 +56,7 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td align="center" valign="top" width="80"><br />
+			<td align="center" valign="middle" width="80"><br />
 			<a href="https://github.com/alexssmenezes/assmenezes"><!-- link do projeto 1 -->
       <img src="https://github.com/alexssmenezes/devicon-assm/blob/main/icons/santander/santander.svg" /> <!--Logo Santander-->
       </a>
@@ -70,7 +70,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td align="center" valign="top" width="80"><br />
+			<td align="center" valign="middle" width="80"><br />
 			<a href="https://github.com/alexssmenezes/assmenezes"><!-- link do projeto 1 -->
       <img src="https://github.com/alexssmenezes/devicon-assm/blob/main/icons/suzano/suzano.png" /> <!--Logo Suzano-->
       </a>
@@ -84,9 +84,9 @@
 			</td>
 		</tr>
 		<tr>
-			<td align="center" valign="top" width="80"><br />
+			<td align="center" valign="middle" width="80"><br />
 			<a href="https://github.com/alexssmenezes/assmenezes"><!-- link do projeto 1 -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> <!--Logo GitHub-->
+      <img src="https://github.com/alexssmenezes/devicon-assm/blob/main/icons/github/github_logo.png" /> <!--Logo GitHub-->
       </a>
       </td>
 			<td valign="top">
@@ -98,7 +98,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td align="center" valign="top" width="80"><br />
+			<td align="center" valign="middle" width="80"><br />
 			<a href="https://github.com/alexssmenezes/MusicPlayer"><!-- link do projeto 2 -->
       <img src="https://github.com/alexssmenezes/devicon-assm/blob/main/icons/javascript/javascript-original.svg" /> <!-- Logo Javascript-->
       </a>
@@ -111,7 +111,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td align="center" valign="top" width="80"><br />
+			<td align="center" valign="middle" width="80"><br />
 			<a href="https://github.com/alexssmenezes/Formulario"><!-- link do projeto 3 -->
       <img src="https://github.com/alexssmenezes/devicon-assm/blob/main/icons/html5/html5-original.svg" /> <!-- Logo HTML5-->
       </a>
@@ -124,7 +124,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td align="center" valign="top" width="80"><br />
+			<td align="center" valign="middle" width="80"><br />
 			<a href="https://github.com/alexssmenezes/devicon-assm"><!-- link do projeto 4 -->
       <img src="https://github.com/alexssmenezes/devicon-assm/blob/main/icons/illustrator/illustrator-plain.svg" /> <!-- Logo Icones-->
       </a>
@@ -137,7 +137,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td align="center" valign="top" width="80"><br />
+			<td align="center" valign="middle" width="80"><br />
 			<a href="https://github.com/alexssmenezes/store_api"><!-- link do projeto 5 -->
       <img src="https://github.com/alexssmenezes/devicon-assm/blob/main/icons/python/python-original.svg" /> <!-- Logo Python-->
       </a>
@@ -150,7 +150,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td align="center" valign="top" width="80"><br />
+			<td align="center" valign="middle" width="80"><br />
 			<a href="https://github.com/alexssmenezes/workout_api"><!-- link do projeto 6 -->
       <img src="https://github.com/alexssmenezes/devicon-assm/blob/main/icons/python/python-original.svg" /> <!-- Logo Python-->
       </a>
@@ -163,7 +163,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td align="center" valign="top" width="80"><br />
+			<td align="center" valign="middle" width="80"><br />
 			<a href="https://github.com/alexssmenezes/CursoPythonSantander"><!-- link do projeto 7 -->
       <img src="https://github.com/alexssmenezes/devicon-assm/blob/main/icons/python/python-original.svg" /> <!-- Logo Python-->
       </a>
@@ -176,7 +176,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td align="center" valign="top" width="80"><br />
+			<td align="center" valign="middle" width="80"><br />
 			<a href="https://github.com/alexssmenezes/Fluxo-de-Conversa-Personalizado"><!-- link do projeto 8 -->
       <img src="https://github.com/alexssmenezes/devicon-assm/blob/main/icons/powershell/powershell-original.svg" /> <!-- Logo PowerShell-->
       </a>
@@ -189,7 +189,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td align="center" valign="top" width="80"><br />
+			<td align="center" valign="middle" width="80"><br />
 			<a href="https://github.com/alexssmenezes/Projeto_Analise_de_Sentimento_Language_Studio_Azure-AI"><!-- link do projeto 9 -->
       <img src="https://github.com/alexssmenezes/devicon-assm/blob/main/icons/azure/azure-original.svg" /> <!-- Logo Azure-->
       </a>
@@ -202,7 +202,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td align="center" valign="top" width="80"><br />
+			<td align="center" valign="middle" width="80"><br />
 			<a href="https://github.com/alexssmenezes/final-challenge-ms-copilot"><!-- link do projeto 10 -->
       <img src="https://github.com/alexssmenezes/devicon-assm/blob/main/icons/copilot/Copilot.svg" /> <!-- Logo Copilot-->
       </a>
