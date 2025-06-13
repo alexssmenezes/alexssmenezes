@@ -12,8 +12,10 @@
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alexssmenezes&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
   <!-- Top Languages -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexssmenezes&hide=HTML,CSS&size_weight=0.5&count_weight=0.5&langs_count=8&theme=dark)
-  <!--
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexssmenezes&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  <!-- sem HTML e CSS
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexssmenezes&layout=compact&hide=HTML,CSS&size_weight=0.5&count_weight=0.5&langs_count=8&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  versão anterior a atualização.
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexssmenezes&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
   -->
   
