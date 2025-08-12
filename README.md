@@ -60,7 +60,7 @@
 			<h3>Projeto 1</h3>
 			<p>Descrição do projeto 1</p>
 			<a href=""> <!-- link do projeto 1 -->
- 			 	<img src="https://img.shields.io/badge/View%20project-4169E1?style=for-the-badge" alt="Projeto github">
+ 			 	<img src="https://img.shields.io/badge/Ver%20Projeto-4169E1?style=for-the-badge" alt="Projeto github">
 			</a>
 			</td>
 		</tr>
@@ -74,7 +74,7 @@
 			<h3>Projeto 2</h3>
 			<p>Descrição do projeto 2</p>
 			<a href=""> <!-- link do projeto 2 -->
- 			 	<img src="https://img.shields.io/badge/View%20Project-FFC222?style=for-the-badge" alt="Projeto github">
+ 			 	<img src="https://img.shields.io/badge/Ver%20Projeto-FFC222?style=for-the-badge" alt="Projeto github">
 			</td>
 		</tr>
 	</tbody>
