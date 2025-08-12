@@ -51,7 +51,7 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td align="center" valign="top" width="80"><br />
+			<td align="center" valign="middle" width="80"><br />
 			<a href=""><!-- link do projeto 1 -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" /> <!--Logo Azure-->
       </a>
@@ -65,7 +65,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td align="center" valign="top" width="80"><br />
+			<td align="center" valign="middle" width="80"><br />
 			<a href=""><!-- link do projeto 2 -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <!-- Logo Python-->
       </a>
