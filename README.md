@@ -49,88 +49,89 @@
   <tbody>
     <tr>
       <td align="center" valign="middle" width="80"><br />
-        <a href=""><!-- link do projeto 1 -->
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" /> <!--Logo Azure-->
+        <a href="https://github.com/alexssmenezes/captube"><!-- link do projeto 1 -->
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> <!--Logo Azure-->
         </a>
       </td>
       <td valign="top">
-        <h3>Projeto 1</h3>
-        <p>Descrição do projeto 1</p>
-        <a href=""><!-- link do projeto 1 -->
-          <img src="https://img.shields.io/badge/Ver%20Projeto-4169E1?style=for-the-badge" alt="Projeto github">
+        <h3>CapTube YouTube Downloader</h3>
+        <p>CapTube, é um aplicativo simples e eficiente, para download de vídeos e áudios diretamente do YouTube, desenvolvido em Python + PyQt5.</p>
+        <a href="https://github.com/alexssmenezes/captube"><!-- link do projeto 1 -->
+          <img src="https://img.shields.io/badge/Ver%20Projeto-4169E1?style=for-the-badge" alt="CapTube">
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" valign="middle" width="80"><br />
-        <a href=""><!-- link do projeto 2 -->
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <!-- Logo Python-->
+        <a href="https://github.com/alexssmenezes/limpeza_dados"><!-- link do projeto 2 -->
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> <!-- Logo Python-->
         </a>
       </td>
       <td valign="top">
-        <h3>Projeto 2</h3>
-        <p>Descrição do projeto 2</p>
-        <a href=""><!-- link do projeto 2 -->
-          <img src="https://img.shields.io/badge/Ver%20Projeto-FFC222?style=for-the-badge" alt="Projeto github">
+        <h3>Limpeza de Dados</h3>
+        <p>Script Python para limpeza de bases de dados em CSV e Excel (.xlsx/.xls), desenvolvido para remover caracteres especiais e padronizar colunas de texto, atendendo aos critérios de boas práticas e robustez.</p>
+        <a href="https://github.com/alexssmenezes/limpeza_dados"><!-- link do projeto 2 -->
+          <img src="https://img.shields.io/badge/Ver%20Projeto-FFC222?style=for-the-badge" alt="Limpeza de Dados">
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" valign="middle" width="80"><br />
-        <a href=""><!-- link do projeto 3 -->
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" /> <!--Logo Azure-->
+        <a href="https://github.com/alexssmenezes/musicplayer"><!-- link do projeto 3 -->
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <!--Logo Azure-->
         </a>
       </td>
       <td valign="top">
-        <h3>Projeto 3</h3>
-        <p>Descrição do projeto 3</p>
-        <a href=""><!-- link do projeto 3 -->
-          <img src="https://img.shields.io/badge/Ver%20Projeto-4169E1?style=for-the-badge" alt="Projeto github">
+        <h3>Music Player</h3>
+        <p>Um player de músicas simples, moderno e responsivo, pronto para rodar diretamente no navegador web.</p>
+        <a href="https://github.com/alexssmenezes/musicplayer"><!-- link do projeto 3 -->
+          <img src="https://img.shields.io/badge/Ver%20Projeto-4169E1?style=for-the-badge" alt="Music Player">
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" valign="middle" width="80"><br />
-        <a href=""><!-- link do projeto 4 -->
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <!-- Logo Python-->
+        <a href="https://github.com/alexssmenezes/pokedex"><!-- link do projeto 4 -->
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <!-- Logo Python-->
         </a>
       </td>
       <td valign="top">
-        <h3>Projeto 4</h3>
-        <p>Descrição do projeto 4</p>
-        <a href=""><!-- link do projeto 4 -->
-          <img src="https://img.shields.io/badge/Ver%20Projeto-FFC222?style=for-the-badge" alt="Projeto github">
+        <h3>Pokedex</h3>
+        <p>Uma aplicação web interativa inspirada no universo Pokémon, desenvolvida com o objetivo de treinar e aprimorar conhecimentos em HTML, CSS, JavaScript e consumo de APIs.
+O projeto exibe uma lista de Pokémons com informações básicas, imagens ilustrativas e filtros de busca.</p>
+        <a href="https://github.com/alexssmenezes/pokedex"><!-- link do projeto 4 -->
+          <img src="https://img.shields.io/badge/Ver%20Projeto-FFC222?style=for-the-badge" alt="Pokedex">
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" valign="middle" width="80"><br />
-        <a href=""><!-- link do projeto 5 -->
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" /> <!--Logo Azure-->
+        <a href="https://github.com/alexssmenezes/relogiodigital"><!-- link do projeto 5 -->
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> <!--Logo Azure-->
         </a>
       </td>
       <td valign="top">
-        <h3>Projeto 5</h3>
-        <p>Descrição do projeto 5</p>
-        <a href=""><!-- link do projeto 5 -->
-          <img src="https://img.shields.io/badge/Ver%20Projeto-4169E1?style=for-the-badge" alt="Projeto github">
+        <h3>Relógio Digital</h3>
+        <p>Relógio Digital desenvolvido em HTML5, CSS3 e Javascript. A princípio o projeto foi criado para meu treinamento básico em programação, ainda há algumas implementações de melhorias com novos recursos em boas práticas, para incrementar no projeto.</p>
+        <a href="https://github.com/alexssmenezes/relogiodigital"><!-- link do projeto 5 -->
+          <img src="https://img.shields.io/badge/Ver%20Projeto-4169E1?style=for-the-badge" alt="Relógio Digital">
         </a>
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td align="center" valign="middle" width="80"><br />
-        <a href=""><!-- link do projeto 6 -->
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <!-- Logo Python-->
+        <a href=""><!-- link do projeto 6 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <!-- Logo Python
         </a>
       </td>
       <td valign="top">
         <h3>Projeto 6</h3>
         <p>Descrição do projeto 6</p>
-        <a href=""><!-- link do projeto 6 -->
+        <a href=""><!-- link do projeto 6 
           <img src="https://img.shields.io/badge/Ver%20Projeto-FFC222?style=for-the-badge" alt="Projeto github">
         </a>
       </td>
-    </tr>
+    </tr> -->
   </tbody>
 </table>
 
